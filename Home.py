@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 
 # 1. Configurando página
-st.set_page_config(page_title='Home')
+st.set_page_config(page_title='Home', layout="wide")
 
 # 2. Adicionando logomarca
 imagem = Image.open('logo.png')
