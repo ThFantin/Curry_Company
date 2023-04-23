@@ -177,7 +177,8 @@ st.sidebar.markdown('#### Created by Thiago Fantin')
 #======================================================================================================================
 # Layout Streamlit
 #======================================================================================================================
-
+st.markdown('### ENTREGADORES')
+st.markdown("---")
 st.markdown('### Métricas')
 with st.container():
     col1, col2, col3, col4 = st.columns(4, gap='small')
