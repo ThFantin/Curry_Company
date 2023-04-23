@@ -184,6 +184,8 @@ st.sidebar.markdown('#### Created by Thiago Fantin')
 #======================================================================================================================
 # Layout Streamlit
 #======================================================================================================================
+st.markdown('### EMPRESA')
+st.markdown('---')
 tab1, tab2, tab3 = st.tabs(['Visão Gerencial', 'Visão Tática', 'Visão Geográfica'])
 
 with tab1:
