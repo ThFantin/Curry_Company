@@ -68,6 +68,8 @@ Painel online, hospedado em uma Cloud e disponível para acesso em qualquer disp
 
 O painel pode ser acessado através do link abaixo:
 
+https://thfantin-curry-company.streamlit.app/
+
 ## 7. Conclusão
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que eibam as métricas da melhor forma possível para o CEO.
